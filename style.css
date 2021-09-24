@@ -1,0 +1,39 @@
+body {
+background-color: lightpink;
+font-family: 'Glory', sans-serif;
+}
+
+.header_div {
+background-color: white;
+color: cornflowerblue;
+font-weight: bolder;
+}
+
+.header_div p {
+font-family: 'Glory', sans-serif;
+color: grey;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button {
+font-family: 'Glory', sans-serif;
+margin-top: 30px;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bolder;
+width: 130px;
+}
+
+.copyright_footer {
+position: fixed;
+color: grey;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: white;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px lightcyan;
+}
